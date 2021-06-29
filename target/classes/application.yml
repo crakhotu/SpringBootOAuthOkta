@@ -1,0 +1,10 @@
+server:
+  port: 8080
+okta:
+  oauth2:
+    issuer: https://sumpositive1.okta.com/oauth2/default
+    client-id: 0oa13y9imnoEdpTKT5d7
+    client-secret: wYKXnN3xTsKrcpAPBozi5XBVG9mvKUJVyZ03og3I
+spring:
+  thymeleaf:
+    cache: false
